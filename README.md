@@ -1,9 +1,10 @@
-# DateParse [![AutoHotkey2](https://img.shields.io/badge/Language-AutoHotkey2-red.svg)](https://autohotkey.com/)
+# DateParse 
+
+[![AutoHotkey2](https://img.shields.io/badge/Language-AutoHotkey2-green?style=plastic&logo=autohotkey)](https://autohotkey.com/)
+
+<sub><sup>This library uses [AutoHotkey Version 2](https://autohotkey.com/v2/). (Tested with [AHK v2.0-11](https://github.com/AutoHotkey/AutoHotkey/releases))</sup></sub>
+
 Converts almost any date format to a YYYYMMDDHH24MISS value.
-
-This library uses *AutoHotkey Version 2*.
-
-This repository only offers released version of this library - **development is taking place unter [DateParse-Develop](https://github.com/hoppfrosch/DateParse-Develop)**
 
 ## Usage 
 
@@ -12,7 +13,7 @@ Include `DateParse.ahk`from the `lib` folder into your project using standard Au
 
 ## Examples
 
-For more examples see module source.
+For more examples see unittests.
 
 ```autohotkey
 #include DateParse.ahk
